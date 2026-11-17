@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "board": "uno-r4-wifi-ra4m1",
+  "version": "2.3.1",
+  "firmwareURL": "https://alibazzi910.github.io/shift-light-hud-updates/releases/shift-hud-2.3.1.ota",
+  "byteCount": 91829,
+  "sha256": "dcde62c432af81f60a643e01587550f9ff06f1a7a0eead52bf61ea4f4ce2e694",
+  "minimumAppBuild": 16,
+  "notes": "Initial OTA bench-test release. Confirms wireless installation and restart; validate on your HUD before customer deployment."
+}

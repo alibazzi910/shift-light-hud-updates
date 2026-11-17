@@ -1,10 +1,13 @@
 {
   "schema": 1,
   "board": "uno-r4-wifi-ra4m1",
-  "version": "2.3.1",
-  "firmwareURL": "https://alibazzi910.github.io/shift-light-hud-updates/releases/shift-hud-2.3.1.ota",
-  "byteCount": 91829,
-  "sha256": "dcde62c432af81f60a643e01587550f9ff06f1a7a0eead52bf61ea4f4ce2e694",
-  "minimumAppBuild": 16,
-  "notes": "Initial OTA bench-test release. Confirms wireless installation and restart; validate on your HUD before customer deployment."
+  "version": "2.3.3",
+  "firmwareURL": "https://alibazzi910.github.io/shift-light-hud-updates/releases/shift-hud-2.3.3.ota",
+  "byteCount": 93945,
+  "sha256": "746314532c9b4d2f8badc06c5ec40eadadc12e17e44a87db48177850b72917a9",
+  "minimumAppBuild": 18,
+  "notes": "Bluetooth update bench test. The phone downloads the firmware using cellular or Wi-Fi and sends it directly to the HUD. No HUD Wi-Fi credentials required. Not yet hardware validated.",
+  "bluetoothURL": "https://alibazzi910.github.io/shift-light-hud-updates/releases/shift-hud-2.3.3.bin",
+  "bluetoothByteCount": 115696,
+  "bluetoothSHA256": "eadb4be3545271c18d60294ec219dada31d57f63442b399f12bfab61c915a388"
 }
